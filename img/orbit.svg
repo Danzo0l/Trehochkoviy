@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="earth" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+</style>
+<radialGradient id="SVGID_1_" cx="1390" cy="3286" r="2584.2122" gradientTransform="matrix(-0.6709 -0.7415 0.7657 -0.6928 -193.664 6593.3271)" gradientUnits="userSpaceOnUse">
+	<stop  offset="1.571508e-02" style="stop-color:#158CFF"/>
+	<stop  offset="0.3453" style="stop-color:#178FFF;stop-opacity:0.8575"/>
+	<stop  offset="0.6015" style="stop-color:#1C99FF;stop-opacity:0.7468"/>
+	<stop  offset="0.8323" style="stop-color:#24A9FF;stop-opacity:0.647"/>
+	<stop  offset="0.941" style="stop-color:#2AB4FF;stop-opacity:0.6"/>
+	<stop  offset="0.9905" style="stop-color:#71CAFF;stop-opacity:9.642118e-02"/>
+	<stop  offset="1" style="stop-color:#7FCEFF;stop-opacity:0"/>
+</radialGradient>
+<path class="st0" d="M59.9,1080l200,3.4c0,0,920-384.3,1658-253.8l0.8-139.6C1918.8,690,829.9,526,59.9,1080z"/>
+</svg>
